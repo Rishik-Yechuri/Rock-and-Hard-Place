@@ -1,0 +1,2 @@
+C:\Users\145371\Desktop\Video Game Design\Rock and Hard Place\Rock and Hard Place\Rock_and_Hard_PlaceContent\obj\x86\Debug\Rock_and_Hard_PlaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\rishi\Documents\Github\C#\Rock and Hard Place\Rock and Hard Place\Rock_and_Hard_PlaceContent\obj\x86\Debug\Rock_and_Hard_PlaceContent.contentprojResolveAssemblyReference.cache
